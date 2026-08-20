@@ -1,21 +1,38 @@
-MIT License
+# 成员档案：〈姓名〉
 
-Copyright (c) 2026 SOYA
+> 空白成员卡模板。用 SOYA 的"入选四问"把关后填写：① 思想经时间检验？② 覆盖我缺的维度？③ 能编译成可执行原则？④ 与现有成员互补？
+> 完整指南见 `docs/customize-your-board.md`。
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+**头衔**：〈一句话说明 TA 是谁〉
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+**入选理由**：〈为什么选 TA 进入你的董事会，通过了哪几问〉
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 核心思想（3 条）
+
+- 
+- 
+- 
+
+## 代表作
+
+- 
+
+## 经典语录
+
+- 
+
+## 适合咨询的问题
+
+- 
+
+## 不适用场景（很重要，防止误用）
+
+- 
+
+## 思维方式特点
+
+- 
+
+## AI 调用建议（怎么让 AI 扮演 TA）
+
+〈告诉 AI：调用这位成员时，应强调哪种思维、避免哪种套路。例如："调用芒格时强调逆向思维与能力圈，避免给他贴'投资大师'的标签后只谈股票。"〉
