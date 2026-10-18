@@ -1,6 +1,6 @@
 # 维护与恢复 / Maintenance and recovery
 
-本文件为规范迭代候选，尚未提交或发布。源码可公开读取不等于安装、功能和发行物已验收。
+本文件说明更新、故障与恢复办法，不能单独作为发行验收证明。源码可公开读取不等于安装、功能和发行物已验收。
 
 ## 版本与后续 AI 修改
 
@@ -22,4 +22,4 @@ AI 修改使用独立分支和 PR，写明问题、最终行为、实际检查/�
 
 ## English essentials
 
-This is an unsubmitted maintenance candidate, not a release certificate. Use branches and reviewable PRs; record actual checks and limitations. Preserve existing tags/assets. Set the next version at merge and keep release references consistent. Back up source, local configuration and user data before upgrading; reverting code does not undo data migrations or external actions. Report sanitized reproductions through Issues, never work material or credentials. After each real release, review its public entry point as a newcomer in both languages, resolve blocking questions and recheck before acceptance. No independent-user validation is implied.
+This maintenance guide is not a release certificate. Use branches and reviewable PRs; record actual checks and limitations. Preserve existing tags/assets. Set the next version at merge and keep release references consistent. Back up source, local configuration and user data before upgrading; reverting code does not undo data migrations or external actions. Report sanitized reproductions through Issues, never work material or credentials. After each real release, review its public entry point as a newcomer in both languages, resolve blocking questions and recheck before acceptance. No independent-user validation is implied.

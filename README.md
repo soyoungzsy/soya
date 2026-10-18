@@ -71,3 +71,9 @@ python3 skills/personal-board/scripts/decision_template.py "如何安排一个�
 
 
 [维护与恢复](MAINTENANCE.md) · 本轮规范检查尚未完成公开发布验收。
+
+## 来源与致谢
+
+原作者、参考项目、依赖和许可说明见[来源清单](SOURCES.md)。引用不会因AI改写或改名而变成原创；需要保留的第三方声明随下载包提供。
+
+本轮版本: 0.2.0 · [Release / 固定下载](https://github.com/soyoungzsy/soya/releases/tag/v0.2.0)
