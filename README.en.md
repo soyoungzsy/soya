@@ -54,3 +54,9 @@ This proposal restores source from commit `33cb83599a93724fb5ebc10dca9242b8c7b5a
 
 
 [Maintenance and recovery](MAINTENANCE.md) · Public release acceptance remains pending.
+
+## Sources and acknowledgements
+
+See [sources](SOURCES.md) for original authors, references, dependencies and licenses. AI rewriting does not establish original authorship; required third-party notices remain in applicable downloads.
+
+Version: 0.2.0 · [Release / 固定下载](https://github.com/soyoungzsy/soya/releases/tag/v0.2.0)
